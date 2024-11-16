@@ -1,3 +1,6 @@
+jupyter
 kaggle
 pandas
+plotly
+pyarrow
 scikit-learn
