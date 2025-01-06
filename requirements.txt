@@ -1,6 +1,9 @@
 jupyter
 kaggle
+matplotlib
 pandas
 plotly
 pyarrow
 scikit-learn
+seaborn
+xgboost
